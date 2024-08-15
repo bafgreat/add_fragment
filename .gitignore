@@ -1,4 +1,6 @@
 .history/
 .pyenv/
 poetry.lock
-add_fragment/__pycache__/ 
+add_fragment/__pycache__/
+tests/test_data
+info_git

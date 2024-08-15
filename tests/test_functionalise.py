@@ -7,8 +7,8 @@ from add_fragment.io import load_system
 from add_fragment.insert_fragment import functionalise_host
 
 
-host_system = load_system('test_data/B-ditjoh-H.xyz')
-sub_fragment1 = load_system('test_data/ac-R.xyz')
+# host_system = load_system('test_data/B-ditjoh-H.xyz')
+# sub_fragment1 = load_system('test_data/ac-R.xyz')
 
 
 def test_functions(host_system, sub_fragment1):
