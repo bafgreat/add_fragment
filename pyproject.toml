@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "add_fragment"
+version = "0.1.0"
+description = "Simple module to functionalise host systems"
+authors = ["Dinga Wonanke and Shubhajit Das"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+ase = "^3.23.0"
+pytest = "^8.3.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
